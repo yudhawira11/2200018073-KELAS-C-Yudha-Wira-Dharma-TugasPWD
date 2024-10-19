@@ -1,5 +1,7 @@
 # Tugas-Pemrograman-Web-Dinamis
 
+Menjalankan web
+
 Langkah 1:
 	Buat database dengan nama 'seminar'
 
