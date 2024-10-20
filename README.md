@@ -1,5 +1,9 @@
 # Tugas-Pemrograman-Web-Dinamis
 
+Nama	: Yudha Wira Dharma
+NIM	: 2200018073
+Kelas	: C
+
 Menjalankan web
 
 Langkah 1:
