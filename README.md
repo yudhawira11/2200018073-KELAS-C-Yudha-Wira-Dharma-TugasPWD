@@ -6,6 +6,7 @@ NIM	: 2200018073
 
 Kelas	: C
 
+
 Menjalankan web
 
 Langkah 1:
@@ -17,5 +18,5 @@ Langkah 2:
 Langkah 3:
 	Jalankan file 'index.php'
  
-Langkah 3:
+Langkah 4:
 	Login dengan username 'admin' dan password 'admin'
